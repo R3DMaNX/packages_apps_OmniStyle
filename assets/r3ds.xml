@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <hour_header hour="1" image="r3ds_01" />
+    <hour_header hour="2" image="r3ds_02" />
+    <hour_header hour="3" image="r3ds_03" />
+    <hour_header hour="5" image="r3ds_04" />
+    <hour_header hour="6" image="r3ds_05" />
+	<hour_header hour="7" image="r3ds_06" />
+	<hour_header hour="8" image="r3ds_07" />
+    <hour_header hour="9" image="r3ds_08" />
+	<hour_header hour="10" image="r3ds_09" />
+    <hour_header hour="11" image="r3ds_10" />
+	<hour_header hour="12" image="r3ds_11" />
+    <hour_header hour="13" image="r3ds_12" />
+	<hour_header hour="14" image="r3ds_13" />
+	<hour_header hour="15" image="r3ds_14" />
+    <hour_header hour="16" image="r3ds_15" />
+	<hour_header hour="18" image="r3ds_16" />
+    <hour_header hour="20" image="r3ds_17" />
+	<hour_header hour="22" image="r3ds_18" />
+    <hour_header hour="23" image="r3ds_19" />
+    <day_header day="24" month="11" image="r3ds_11" />
+</daylight_headers>
